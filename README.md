@@ -10,9 +10,14 @@ There are 226 testing points. Each testing point is 1.5mm wide with a hole diame
 ![Top View](PinNumbering.png)
 
 The manufactured board is displayed below.
+<p align="center">
+  <img src="top_view.jpg" alt="Board Top View" width="45%" />
+  <img src="bottom_view.jpg" alt="Board Bottom View" width="45%" />
+</p>
 
-(a) Top View ![Top View](top_view.jpg)
-(b) Bottom View ![Bottom View](bottom_view.jpg)
+<p align="center">
+  <em>a): Board Top View</em> &emsp; <em>b): Board Bottom View</em>
+</p>
 
 
 
